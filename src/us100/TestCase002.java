@@ -6,6 +6,8 @@ public class TestCase002 {
 
         System.out.println("TestCase2");
 
+        System.out.println("Second update");
+
     }
 
 }

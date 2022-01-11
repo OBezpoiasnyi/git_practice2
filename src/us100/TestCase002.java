@@ -8,6 +8,8 @@ public class TestCase002 {
 
         System.out.println("Second update");
 
+        System.out.println("one more update");
+
     }
 
 }
